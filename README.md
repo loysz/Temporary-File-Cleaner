@@ -28,7 +28,7 @@ This script automates the process of cleaning temporary files on a Windows compu
 
 ### Contributions and Issues
 
-8. If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please [open an issue](https://github.com/yourusername/your-repo-name/issues) on GitHub.
+8. If you encounter any issues, have suggestions for improvements, or want to contribute to the project, please [open an issue](https://github.com/loysz/Temporary-File-Cleaner/issues) on GitHub.
 
 ## Important Notes
 
